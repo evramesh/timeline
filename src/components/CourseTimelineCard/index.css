@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+.para {
+  margin: 2px;
+  background-color: blueviolet;
+  color: aliceblue;
+}
